@@ -1,115 +1,122 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
+    "name": "Shreni Singh",
     "label": "Programmer",
     "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "email": "ssingh03@bu.edu",
+    "phone": "(857) 498-4956",
+    "summary": "I’m Shreni, originally from India, and currently pursuing my MS in Computer Science at Boston University. Before diving into grad school, I worked as a Software Engineer at DXC Technology, where I gained experience in C# development and managing large-scale databases. I’m passionate about applied machine learning, data science, and software development, with a focus on optimizing applications and algorithms. When I’m not working on academic projects or development, I enjoy exploring AI, mobile apps, and emerging tech.",
     "location": {
-      "city": "San Francisco"
+      "city": "Boston",
+      "country": "USA"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
+        "username": "s-singh3",
+        "url": "https://github.com/s-singh3"
       },
       {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
+        "network": "LinkedIn",
+        "username": "Shreni Singh",
+        "url": "https://linkedin.com/in/shreni-s/"
       },
       {
         "network": "X",
         "url": "https://x.com/SiliconHBO"
-      },
-      {
-        "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
-      },
-      {
-        "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
-      },
-      {
-        "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "DXC Technology",
+      "location": "Remote",
+      "position": "Analyst II Software Engineer",
+      "url": "https://www.dxc.com/",
+      "startDate": "2022-08-01",
+      "endDate": "2024-06-01",
+      "summary": "Developed, tested, and debugged code for software applications in C#. Managed large-scale databases and resolved numerous issues related to legacy .NET applications.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Developed and tested 5+ software development applications in C#.",
+        "Maintained a 3+ million record database ensuring optimal performance and data accuracy.",
+        "Resolved 3,650+ issues related to .NET legacy applications over two years."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
+      "name": "Questrom School of Business, Boston University",
+      "location": "Boston, MA",
+      "position": "Graduate Teaching Assistant - Unsupervised Machine Learning",
+      "startDate": "2023-01-01",
+      "endDate": "2025-03-01",
+      "summary": "Coordinated and assisted with the preparation of assignments, projects, and tracking student performance for a class of 100+ students.",
+      "highlights": [
+        "Collaborated with professors to ensure timely delivery of course materials.",
+        "Maintained detailed records of student performance."
+      ]
+    },
+    {
+      "name": "HelpNow (Pentanami Technologies Pvt. Ltd.)",
+      "location": "India",
+      "position": "Flutter Developer Intern",
+      "startDate": "2021-08-01",
+      "endDate": "2022-04-01",
+      "summary": "Developed healthcare mobile applications for patients and doctors, optimized data retrieval and user interface performance.",
+      "highlights": [
+        "Developed and deployed a healthcare app with 100+ downloads.",
+        "Fetched data from GraphQL and displayed it efficiently in the app."
+      ]
+    },
+    {
+      "name": "Innodatatics",
+      "location": "India",
+      "position": "Intern Data Scientist",
+      "startDate": "2022-04-01",
+      "endDate": "2022-07-01",
+      "summary": "Developed a real-time prediction web app for sample collection time, utilizing machine learning models.",
+      "highlights": [
+        "Developed a Random Forest model and compared with other models to optimize results.",
+        "Collected and created realistic dummy data from primary and secondary sources."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
+      "institution": "Boston University",
+      "url": "https://www.bu.edu/",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2023-01-01",
+      "endDate": "2025-12-01",
+      "score": "3.68",
+      "courses": ["CS523 - Unsupervised Machine Learning", "CS541 - Artificial Intelligence"]
+    },
+    {
+      "institution": "Bengal College of Engineering",
+      "url": "https://www.bce.ac.in/",
+      "area": "Computer Science Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "startDate": "2017-08-01",
+      "endDate": "2021-06-01",
+      "score": "9.06",
+      "courses": ["CS201 - Data Structures", "CS301 - Algorithms", "CS404 - Machine Learning"]
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Programming Languages",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "keywords": ["Python", "C#", "Java", "Kotlin", "Dart", "C++", "SQL", "Javascript", "HTML", "CSS", "Typescript"]
     },
     {
-      "name": "Compression",
+      "name": "Frameworks & Tools",
       "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "keywords": ["Flutter", "React", "TensorFlow", "Jupyter", "Android Studio", "Git", "SSMS", "MVVM"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "keywords": ["TensorFlow", "Keras", "Random Forest", "Scikit-Learn", "Numpy", "Pandas"]
     }
   ],
   "languages": [
@@ -120,36 +127,44 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Emerging Technologies",
+      "keywords": ["AI", "Machine Learning", "Quantum Computing", "Mobile Apps"]
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "MuseAI",
+      "description": "AI-driven platform for exploring the intersection of AI and music.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Classifies music into genres and moods.",
+        "Generates lyrics and chord progressions based on situational prompts."
       ],
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "roles": ["Team lead", "Designer"],
-      "entity": "Smoogle",
-      "type": "application"
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01"
+    },
+    {
+      "name": "Florist - Flower Selling Ecommerce Mobile App",
+      "description": "An intuitive mobile app for purchasing flowers and arrangements.",
+      "highlights": [
+        "Features secure payments and real-time delivery tracking.",
+        "Developed with user-friendly interface for easy navigation."
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01"
+    },
+    {
+      "name": "Predicting Closed Questions on Stack Overflow",
+      "description": "AI-driven system to predict whether a Stack Overflow question will be closed and the reason for closure.",
+      "highlights": [
+        "Developed using Python, BERT, and Deep Neural Networks."
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01"
     }
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2025-03-11T15:53:00"
   }
 }

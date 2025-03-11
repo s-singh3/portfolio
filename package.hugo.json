@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.",
   "author": {
-    "name": "Michael Schnerring",
-    "email": "3743342+schnerring@users.noreply.github.com",
-    "url": "https://schnerring.net"
+    "name": "Shreni Singh",
+    "email": "ssingh03@bu.edu",
+    "url": "http://www.ssingh.tech/blog/"
   },
   "license": "MIT",
   "main": "index.js",
