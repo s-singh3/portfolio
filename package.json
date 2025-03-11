@@ -43,7 +43,6 @@
   "dependencies": {
     "@tabler/icons": "^3.30.0",
     "flexsearch": "0.7.43",
-    "gh-pages": "^6.3.0",
     "normalize.css": "^8.0.1",
     "prism-themes": "^1.9.0",
     "prismjs": "^1.29.0",
@@ -96,8 +95,7 @@
     "lint:css": "stylelint --fix **/*.css",
     "lint:js": "eslint --fix .",
     "lint:md": "markdownlint --fix **/*.md",
-    "prepare": "husky",
-    "deploy": "hugo build & npx gh-pages -d public"
+    "prepare": "husky"
   },
   "version": "1.0.0"
 }
